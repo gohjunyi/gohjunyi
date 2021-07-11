@@ -7,7 +7,7 @@ I am a Data Science professional with total of 4 years of work experience who lo
 - 👯 I’m looking to collaborate on __ML with Trading__
 - 💬 Ask me about __Pytorch__
 - 😄 Pronouns: __he/him__
-- ⚡ Fun fact: __Programming is like drawing, I love drawing on VScode.__
+- ⚡ Fun fact: __Programming is like drawing, and I love drawing on VScode.__
 
 <!--
 **gohjunyi/gohjunyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
