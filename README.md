@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Science professional with total of 4 years of work experience who loves solving unstructured problems using structured thinking. Solves data science problems (i.e. at work, pro-bono and personal) with organizational and social impact.
+I am a Data Science professional with total of 7 years of work experience who loves solving unstructured problems using structured thinking. Solves data science problems (i.e. at work, pro-bono and personal) with organizational and social impact.
 
 - 🌱 I’m currently learning __MLOps__
 - 👯 I’m looking to collaborate on __ML with Trading__
